@@ -30,7 +30,9 @@ L -> Test
 ## Release History
 
 * 0.1.0
-    * 
+    *Made single exe file
+    *Added support for auto user login
+    *Added support for all semester and departments
  *0.0.5
     *Created the first test version
     
