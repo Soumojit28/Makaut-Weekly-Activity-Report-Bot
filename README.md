@@ -1,7 +1,7 @@
 # Makaut-Weekly-Activity-Report-Bot
 ### A bot written in python to automate Weekly Activity Report submission form a excel spread sheet file.
 
-![](https://ibb.co/k2zCWrX)
+![](https://i.ibb.co/hFrztnV/header.png)
 
 ## Installtion
 - First download the latest Bot relese from [here]()
