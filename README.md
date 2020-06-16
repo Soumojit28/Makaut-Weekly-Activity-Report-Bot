@@ -7,7 +7,24 @@
 - Put the bot, chrome driver and excel spreadsheet in a folder and start the bot.
 - follow on screen instructions.
 
-## 
+## Spreadsheet Specification
+The spreadsheet muct be in this specified format-
+```
+Coulumn -> Data
+A -> Blank
+B -> Week
+C -> Date(Optional Bot will not read from this)
+D -> Topic
+E -> Platform
+F -> Time(Optional Bot will not read from this)
+G -> Link
+H -> Duration
+I -> Note
+J -> Assignment Received
+K -> Assignment Submitted
+L -> Test
+
+```
 
 
 ## Release History
