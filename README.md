@@ -4,7 +4,7 @@
 ![](https://i.ibb.co/hFrztnV/header.png)
 
 ## Installtion
-- First download the latest Bot relese from [here]()
+- First download the latest Bot relese from [here](https://github.com/Soumojit28/Makaut-Weekly-Activity-Report-Bot/releases/tag/v1.0), and unzip it
 - Download the chromedriver from [here](https://chromedriver.chromium.org/). Make sure to donwload the appropiate version to match with the browser version. To check the browser version goto chrome->menu->help->about
 - Put the bot, chrome driver and excel spreadsheet in a folder and start the bot.
 - follow on screen instructions.
