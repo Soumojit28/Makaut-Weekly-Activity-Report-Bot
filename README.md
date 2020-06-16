@@ -1,6 +1,8 @@
 # Makaut-Weekly-Activity-Report-Bot
 ### A bot written in python to automate Weekly Activity Report submission form a excel spread sheet file.
 
+![](https://ibb.co/k2zCWrX)
+
 ## Installtion
 - First download the latest Bot relese from [here]()
 - Download the chromedriver from [here](https://chromedriver.chromium.org/). Make sure to donwload the appropiate version to match with the browser version. To check the browser version goto chrome->menu->help->about
