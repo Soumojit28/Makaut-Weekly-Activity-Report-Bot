@@ -29,7 +29,7 @@ L -> Test
 ```
 ![](https://i.ibb.co/fCLk9jm/Screenshot-201.png)
 
-##Usage
+## Usage
 - Put all three files (bot, web driver and spreadsheet) in a same folder
 - Then start the bot, provide your login information and continue on screen instruction
 - One spread sheet must contain only a specific subject info
